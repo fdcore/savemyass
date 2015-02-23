@@ -88,4 +88,7 @@ Changelog
 0.2
   - add support upload to webdav
   - fixes `getopt`
+  - check file size and delete not changed files
+0.1
+  - first release
   
